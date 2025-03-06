@@ -11,9 +11,9 @@ TOKENS = [ #Definicio de los tokens
     ("PARENTESIS", r"[()]"),
     ("LLAVE", r"[{}]"), 
     ("PUNTO_Y_COMA", r";"),
-    #("COMA", r","),
-    #("PUNTO", r"\."),
-    #("DOS_PUNTOS", r":"),
+    ("COMA", r","),
+    ("PUNTO", r"\."),
+    ("DOS_PUNTOS", r":"),
     ("ESPACIO", r"\s+"),
 ]
 
